@@ -1,0 +1,18 @@
+[INFO ] 2023-09-17 15:08:13.260 [main] Log - Sauce Demo Test method are starting.
+[INFO ] 2023-09-17 15:08:13.413 [main] Log - Automation test are starting !
+[INFO ] 2023-09-17 15:08:19.504 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-09-17 15:08:19.512 [main] Log - Swag Labs
+[INFO ] 2023-09-17 15:08:20.163 [main] Log - dataDrivenTest test is starting.
+[INFO ] 2023-09-17 15:08:23.257 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-09-17 15:08:27.676 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-09-17 15:08:28.882 [main] Log - Data all products written successfully! at path : .\poi-output\Products-SauceDemoApps[2023-09-17_15-08-28].xlsx
+[INFO ] 2023-09-17 15:08:28.889 [main] Log - dataDrivenTest test is succeed.
+[INFO ] 2023-09-17 15:08:30.510 [main] Log - Automation test are ending !
+[INFO ] 2023-09-17 15:08:30.909 [main] Log - Sauce Demo Test method are starting.
+[INFO ] 2023-09-17 15:08:56.726 [main] Log - Automation test are starting !
+[INFO ] 2023-09-17 15:09:02.245 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-09-17 15:09:02.253 [main] Log - Swag Labs
+[INFO ] 2023-09-17 15:09:05.885 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-09-17 15:09:10.551 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-09-17 15:09:11.947 [main] Log - Data all products written successfully! at path : .\poi-output\Products-SauceDemoApps[2023-09-17_15-09-11].xlsx
+[INFO ] 2023-09-17 15:09:12.070 [main] Log - Automation test are ending !

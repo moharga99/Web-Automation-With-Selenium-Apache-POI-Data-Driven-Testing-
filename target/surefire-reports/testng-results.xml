@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-17T15:08:11 ICT" name="Sauce Demo Suite" finished-at="2023-09-17T15:08:30 ICT" duration-ms="19050">
+    <groups>
+    </groups>
+    <test started-at="2023-09-17T15:08:11 ICT" name="Sauce Demo Test" finished-at="2023-09-17T15:08:30 ICT" duration-ms="19050">
+      <class name="test.cases.DataDrivenTest">
+        <test-method is-config="true" signature="configEnvironment()[pri:0, instance:test.cases.DataDrivenTest@3a08078c]" started-at="2023-09-17T15:08:13 ICT" name="configEnvironment" finished-at="2023-09-17T15:08:18 ICT" duration-ms="4896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configEnvironment -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.DataDrivenTest@3a08078c]" started-at="2023-09-17T15:08:18 ICT" name="goToApps" finished-at="2023-09-17T15:08:19 ICT" duration-ms="1406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.DataDrivenTest@3a08078c]" started-at="2023-09-17T15:08:19 ICT" name="initClass" finished-at="2023-09-17T15:08:20 ICT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="dataDrivenTest(java.lang.reflect.Method)[pri:0, instance:test.cases.DataDrivenTest@3a08078c]" started-at="2023-09-17T15:08:20 ICT" name="dataDrivenTest" description="Data Driven Test" finished-at="2023-09-17T15:08:28 ICT" duration-ms="8785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.DataDrivenTest.dataDrivenTest(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataDrivenTest -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.DataDrivenTest@3a08078c]" started-at="2023-09-17T15:08:30 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-09-17T15:08:30 ICT" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.cases.DataDrivenTest@3a08078c]" started-at="2023-09-17T15:08:30 ICT" name="tearDown" finished-at="2023-09-17T15:08:30 ICT" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.cases.DataDrivenTest -->
+    </test> <!-- Sauce Demo Test -->
+  </suite> <!-- Sauce Demo Suite -->
+</testng-results>
